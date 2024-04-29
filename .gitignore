@@ -1,5 +1,5 @@
 # .gitignore
-
+/build
 # allow some files
 !/Copycat/test1-google.xlsx
 !/Copycat/test2-libre.xlsx
